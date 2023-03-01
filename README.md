@@ -1,1 +1,1 @@
-My personal nvim config
+## Chas' NeoVim Config
