@@ -4,7 +4,8 @@ local km = vim.keymap
 
 km.set("i", "jj", "<esc>")
 
-km.set("n", "<leader>Q", ":q<CR>")
+km.set("n", "<leader>q", ":q<CR>")
+km.set("n", "<leader>Q", ":qa<CR>")
 
 km.set("n", "<leader>nh", ":nohl<CR>")
 
