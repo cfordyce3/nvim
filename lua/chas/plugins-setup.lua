@@ -29,6 +29,7 @@ return packer.startup(function(use)
 	}
 
     use('sainnhe/gruvbox-material')
+    use('morhetz/gruvbox')
 
     -- tmux and split window nav
     use("christoomey/vim-tmux-navigator")
