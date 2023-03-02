@@ -30,6 +30,7 @@ km.set("n", "<leader>sv", "<C-w>v") -- split window vertically
 km.set("n", "<leader>sh", "<C-w>s") -- split window horizontally
 km.set("n", "<leader>se", "<C-w>=") -- make split windows equal width
 km.set("n", "<leader>sx", ":close<CR>") -- close current window split
+km.set("n", "<leader>W",  "<C-w>w") -- change active window
 
 -- tab controls
 km.set("n", "<leader>to", ":tabnew<CR>")
@@ -37,7 +38,7 @@ km.set("n", "<leader>tx", ":tabclose<CR>")
 km.set("n", "<leader>tn", ":tabn<CR>")
 km.set("n", "<leader>tp", ":tabp<CR>")
 
--------------------
+--------------------
 -- plugin keymaps --
 --------------------
 
