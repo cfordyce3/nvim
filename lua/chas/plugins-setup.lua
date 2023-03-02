@@ -83,6 +83,9 @@ return packer.startup(function(use)
     })
     use("onsails/lspkind.nvim")
 
+    -- vim training
+    use("ThePrimeagen/vim-be-good")
+
 
 
     if packer_bootstrap then
