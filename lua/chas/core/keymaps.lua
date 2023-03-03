@@ -48,6 +48,7 @@ km.set("n", "<leader>sm", ":MaximizerToggle<CR>")
 
 -- nvim-tree
 km.set("n", "<leader>e", ":NvimTreeToggle<CR>")
+km.set("n", "<leader>T", ":NvimTreeFocus<CR>")
 
 -- telescope
 km.set("n", "<leader>ff", "<cmd>Telescope find_files<CR>")
