@@ -1,8 +1,8 @@
-### Chas' NeoVim Config
+# Chas' NeoVim Config
 
 ## Keymaps
 
-# General Keymaps
+### General Keymaps
 
 * Leader = <space>
 * Exit INSERT = jj
@@ -10,7 +10,7 @@
 * Soft quit all buffers = leader+Q
 * Sync Packer plugins = leader+ps
 
-# Split Window Keymaps
+### Split Window Keymaps
 
 * Split window vertically = leader+sv
 * Split window horizontally = leader+sh
@@ -18,7 +18,7 @@
 * Close current window split= leader+sx
 * Close active window = leader+W
 
-# Tab Keymaps
+### Tab Keymaps
 
 * Open a new tab = leader+to
 * Close current tab = leader+tx
@@ -27,16 +27,16 @@
 
 ## Plugin Keybinds
 
-# Vim-maximizer
+### Vim-maximizer
 
 * Maximize current window = leader+sm
 
-# Nvim-tree
+### Nvim-tree
 
 * Open/close tree = leader+e
 * Focus the tree = leader+T
 
-# Telescope
+### Telescope
 
 * Search files = leader+ff
 * Live grep = leader+fs
