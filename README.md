@@ -4,7 +4,7 @@
 
 ### General Keymaps
 
-* Leader = <space>
+* Leader = \<space\>
 * Exit INSERT = jj
 * Soft quit current buffer = leader+q
 * Soft quit all buffers = leader+Q
