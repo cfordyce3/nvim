@@ -4,52 +4,52 @@
 
 ### General Keymaps
 
-* Leader = \<space\>
-* Exit INSERT = jj
-* Soft quit current buffer = leader+q
-* Soft quit all buffers = leader+Q
-* Sync Packer plugins = leader+ps
+* Leader = `\<space\>`
+* Exit INSERT = `jj`
+* Soft quit current buffer = `leader+q`
+* Soft quit all buffers = `leader+Q`
+* Sync Packer plugins = `leader+ps`
 
 ### Split Window Keymaps
 
-* Split window vertically = leader+sv
-* Split window horizontally = leader+sh
-* Make windows equal size = leader+se
-* Close current window split= leader+sx
-* Close active window = leader+W
+* Split window vertically = `leader+sv`
+* Split window horizontally = `leader+sh`
+* Make windows equal size = `leader+se`
+* Close current window split= `leader+sx`
+* Close active window = `leader+W`
 
 ### Tab Keymaps
 
-* Open a new tab = leader+to
-* Close current tab = leader+tx
-* Goto next tab = leader+tn
-* Goto prev tab = leader+tp
+* Open a new tab = `leader+to`
+* Close current tab = `leader+tx`
+* Goto next tab = `leader+tn`
+* Goto prev tab = `leader+tp`
 
 ## Plugin Keybinds
 
 ### Vim-maximizer
 
-* Maximize current window = leader+sm
+* Maximize current window = `leader+sm`
 
 ### Nvim-tree
 
-* Open/close tree = leader+e
-* Focus the tree = leader+T
+* Open/close tree = `leader+e`
+* Focus the tree = `leader+T`
 
 ### Telescope
 
-* Search files = leader+ff
-* Live grep = leader+fs
+* Search files = `leader+ff`
+* Live grep = `leader+fs`
 
 ## LSP Keybinds
 
-* Show definition and references = leader+gf
-* Goto declaration = leader+gD
-* View declaration and make edits in temp window = leader+gd
-* Goto implementation = leader+gi
-* View available code actions = leader+ca
-* Smart rename = leader+rn
-* Show diagnostics for line = leader+D
-* Show diagnostics for cursor = leader+d
-* Show documentation = [normal mode]K
-* Show outline on RHS = leader+o
+* Show definition and references = `leader+gf`
+* Goto declaration = `leader+gD`
+* View declaration and make edits in temp window = `leader+gd`
+* Goto implementation = `leader+gi`
+* View available code actions = `leader+ca`
+* Smart rename = `leader+rn`
+* Show diagnostics for line = `leader+D`
+* Show diagnostics for cursor = `leader+d`
+* Show documentation = `[normal mode]K`
+* Show outline on RHS = `leader+o`
