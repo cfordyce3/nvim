@@ -41,7 +41,7 @@
 * Search files = `leader+ff`
 * Live grep = `leader+fs`
 
-## LSP Keybinds
+### LSP Keybinds
 
 * Show definition and references = `leader+gf`
 * Goto declaration = `leader+gD`
@@ -53,3 +53,7 @@
 * Show diagnostics for cursor = `leader+d`
 * Show documentation = `[normal mode]K`
 * Show outline on RHS = `leader+o`
+
+## Notable Changes From Stock NeoVim
+* `[NORMAL]o` and `[NORMAL]O` do not enter `[INSERT]` mode upon newline creation
+ 
