@@ -5,7 +5,7 @@
 ### General Keymaps
 
 * Leader = `<space>`
-* Exit INSERT = `jj`
+* Exit `INSERT` mode= `jj`
 * Soft quit current buffer = `leader+q`
 * Soft quit all buffers = `leader+Q`
 * Sync Packer plugins = `leader+ps`
