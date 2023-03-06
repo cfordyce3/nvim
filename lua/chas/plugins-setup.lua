@@ -17,6 +17,7 @@ if not status then
 end
 
 return packer.startup(function(use)
+    -- packer manages itself
     use("wbthomason/packer.nvim")
 
     -- prereq for many plugins
