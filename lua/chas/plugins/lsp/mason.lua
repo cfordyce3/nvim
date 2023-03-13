@@ -11,12 +11,7 @@ end
 mason.setup()
 mason_lspconfig.setup({
     ensure_installed = {
-        "asm_lsp",
-        "clangd",
         "cmake",
-        "ltex",
-        "lua_ls",
-        "marksman",
         "pylsp",
         "rust_analyzer",
         "taplo",
