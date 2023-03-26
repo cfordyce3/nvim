@@ -8,6 +8,10 @@
 * Exit `INSERT` mode= `jj`
 * Soft quit current buffer = `leader+q`
 * Soft quit all buffers = `leader+Q`
+<<<<<<< HEAD
+=======
+* Write quit = `leader+wq`
+>>>>>>> 2f6273e (initial commit)
 * Sync Packer plugins = `leader+ps`
 
 ### Split Window Keymaps

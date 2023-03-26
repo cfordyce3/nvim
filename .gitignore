@@ -1,1 +1,5 @@
 plugin/
+<<<<<<< HEAD
+=======
+lua/.luarc.json
+>>>>>>> 2f6273e (initial commit)
