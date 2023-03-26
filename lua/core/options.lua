@@ -32,6 +32,7 @@ opt.scrolloff = 10
 opt.termguicolors = true
 opt.background = "dark"
 opt.signcolumn = "yes"
+vim.cmd[[highlight Normal guibg=NONE]]
 
 -- backspace
 opt.backspace = "indent,eol,start"
