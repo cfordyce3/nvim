@@ -9,6 +9,7 @@
 * Soft quit current buffer = `leader+q`
 * Soft quit all buffers = `leader+Q`
 * Write quit = `leader+wq`
+* Write quit all = 'leader+wa'
 
 ### Split Window Keymaps
 
