@@ -34,7 +34,8 @@
 
 ### Nvim-tree
 
-* Open/close tree = `leader+e`
+* Open/close/focus tree = `leader+e`
+* Open/close tree = `leader+E`
 
 ### Telescope
 
