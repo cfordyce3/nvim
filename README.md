@@ -5,11 +5,10 @@
 ### General Keymaps
 
 * Leader = `<space>`
-* Exit `INSERT` mode= `jj`
+* Exit `INSERT` mode= `kj`
 * Soft quit current buffer = `leader+q`
 * Soft quit all buffers = `leader+Q`
 * Write quit = `leader+wq`
-* Sync Packer plugins = `leader+ps`
 
 ### Split Window Keymaps
 
@@ -35,12 +34,11 @@
 ### Nvim-tree
 
 * Open/close tree = `leader+e`
-* Focus the tree = `leader+T`
 
 ### Telescope
 
 * Search files = `leader+ff`
-* Live grep = `leader+fs`
+* Live grep = `leader+fg`
 
 ### LSP Keybinds
 
