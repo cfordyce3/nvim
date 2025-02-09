@@ -1,0 +1,59 @@
+# RELOAD WITH CTRL+SHIFT+F5
+shell_integration no-cursor
+cursor_shape block
+
+font_size 14.0
+# font_family CodeNewRoman
+
+remember_window_size yes
+initial_window_width 80c
+initial_window_height 35c
+
+sync_to_monitor yes
+
+background_opacity 0.95
+
+include ~/.config/kitty/kitty_gruvbox_theme/gruvbox_dark.conf
+# colors
+#foreground #D3C6AA
+#background #232A2E
+
+# black
+#color0 #232A2E
+#color8 #939F91
+
+# red
+#color1 #F85552
+#color9 #E67E80
+
+# green
+#color2 #8DA101
+#color10 #A7C080
+
+# yellow
+#color3 #DFA000
+#color11 #DBBC7F
+
+# blue
+#color4 #3A94C5
+#color12 #7FBBB3
+
+# magenta
+#color5 #DF69BA
+#color13 #D699B6
+
+# cyan
+#color6 #35A77C
+#color14 #83C092
+
+# white
+#color7 #EFEBD4
+#color15 #FDF6E3
+
+
+# BEGIN_KITTY_FONTS
+font_family      family="CodeNewRoman Nerd Font Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS
