@@ -9,6 +9,7 @@ km.set("n", "<leader>Q", ":qa!<CR>")
 
 km.set("n", "<leader>wq", ":wq<CR>")
 km.set("n", "<leader>ww", ":w<CR>")
+km.set("n", "<leader>wa", ":wqa<CR>")
 km.set("n", "ZW", ":w<CR>")
 
 -- TJ Devries Niceties
@@ -18,8 +19,8 @@ km.set("n", "<leader>x", ":.lua<CR>")
 km.set("v", "<leader>x", ":lua<CR>")
 
 -- nvim-tree
-km.set("n", "<leader>E", ":Neotree filesystem show toggle left<CR>")
 km.set("n", "<leader>e", ":Neotree filesystem focus left<CR>")
+km.set("n", "<leader>E", ":Neotree filesystem show toggle left<CR>")
 
 -- telescope in ../plugins/telescope.lua
 
