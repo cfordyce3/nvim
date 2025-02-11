@@ -24,7 +24,6 @@ km.set("n", "<leader>E", ":Neotree filesystem show toggle left<CR>")
 
 -- telescope in ../plugins/telescope.lua
 
-
 -- which-key additions
 --local wk = require("which-key")
 --wk.add({
