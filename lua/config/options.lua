@@ -28,6 +28,7 @@ opt.incsearch = true
 opt.scrolloff = 10
 
 -- appearance
+vim.cmd.colorscheme "catppuccin-mocha"
 opt.termguicolors = true
 opt.background = "dark"
 vim.cmd([[highlight Normal guibg=NONE]])

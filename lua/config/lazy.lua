@@ -35,7 +35,3 @@ require("lazy").setup({
 	checker = { enabled = false },
 })
 
--- Theme
----@diagnostic disable-next-line: undefined-global
-vim.o.background = dark
-vim.cmd([[colorscheme gruvbox]])
