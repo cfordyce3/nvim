@@ -6,10 +6,10 @@ return {
 		null_ls.setup({
 			sources = {
 				null_ls.builtins.formatting.stylua,
-				null_ls.builtins.diagnostics.stylua,
+				--null_ls.builtins.diagnostics.stylua,
 				null_ls.builtins.formatting.clang_format,
-                --null_ls.builtins.diagnostics.cpplint,
-                --not sure about this one
+				--null_ls.builtins.diagnostics.cpplint,
+				--not sure about this one
 			},
 		})
 
