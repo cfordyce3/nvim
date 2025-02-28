@@ -16,7 +16,7 @@ opt.autoindent = true
 opt.smarttab = true
 
 -- line wrapping
-opt.wrap = false
+opt.wrap = true
 
 -- search settings
 opt.ignorecase = true
@@ -44,7 +44,7 @@ opt.splitright = true
 opt.splitbelow = true
 
 -- keyword inclusions
-opt.iskeyword:append("-")
+--opt.iskeyword:append("-")
 
 -- Highlight when yanking text
 --   Try with 'yap' in normal mode
